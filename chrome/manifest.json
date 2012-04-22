@@ -1,0 +1,1 @@
+{"name": "Meme Hunter", "description": "Hunts memes", "version": ".01", "manifest_version": 2, "browser_action": {"default_icon": "icon.png"}, "permissions": ["http://api.flickr.com/"]}
